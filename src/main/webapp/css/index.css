@@ -1,0 +1,19 @@
+h1{
+	color: green;
+    font-size: 2.5em;
+}
+
+div.main{
+	width: 80%;
+	margin: auto;
+}
+
+div.h2{
+	color: blue;
+	font-weight: bold;
+}
+div.article{
+	padding: 1%;
+	border: 2px dotted blue;
+	margin : 2% 0;
+}
